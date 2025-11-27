@@ -4,6 +4,11 @@
 
 This project analyzes supermarket sales across three branches to understand product performance, revenue distribution, customer behavior, and monthly sales trends. The goal is to identify which product lines generate the most revenue, how customers prefer to pay, which branches perform best, and how ratings and quantity sold contribute to overall business performance. The dashboard provides data-driven insights that support strategic, operational, and marketing decisions.
 
+## Dashboard 
+<img width="761" height="434" alt="17642289942665814183231957923981" src="https://github.com/user-attachments/assets/56847fa1-d09c-4b53-b953-53c1ef9689e1" />
+
+
+
 ## Key Questions & KPIs
 Main KPIs Displayed
 
