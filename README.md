@@ -94,3 +94,7 @@ The top 5% of customers contribute significantly to revenue, emphasizing the imp
 ## Conclusion
 
 This dashboard provides a complete view of supermarket performance across branches, products, customers, and payment methods. It highlights key revenue drivers, identifies high-performing product lines, and reveals customer behavior patterns that can inform marketing and inventory strategies. Through interactive filtering and clear visual storytelling, the project demonstrates strong skills in Power BI, data cleaning, DAX, and analytical interpretation. It serves as a practical example of using business intelligence to support real-world retail decision-making
+
+## File 
+
+Supermarket Sales Dashboard.pbit
